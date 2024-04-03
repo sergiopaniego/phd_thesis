@@ -15,7 +15,7 @@ classes: wide
 
 <div class="container" style="overflow: hidden;">
     <p style="text-align: center; width: 33%; float: left;"><a href="https://www.urjc.es/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/URJC_logo.svg/1280px-URJC_logo.svg.png" width="40%" height="40%" alt="URJC"/></a></p>
-    <p style="text-align: center; width: 33%; float: left;"><a href="https://www.urjc.es/"><img src="/assets/images/logo.png" width="20%" height="20%" alt="URJC"/></a></p>
+    <p style="text-align: center; width: 33%; float: left;"><a href="https://www.urjc.es/"><img src="./assets/images/logo.png" width="20%" height="20%" alt="URJC"/></a></p>
     <p style="text-align: center; width: 33%; float: left;"><a href="https://jderobot.github.io/"><img src="https://avatars.githubusercontent.com/u/10959337?s=280&v=4" width="20%" height="20%" alt="JdeRobot"/></a></p>
 </div>
 <p style="text-align: center">Suepervised by:<a href="https://gsyc.urjc.es/jmplaza/">Dr. José María Cañas</a></p>
