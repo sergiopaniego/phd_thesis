@@ -45,6 +45,14 @@ classes: wide
 
 <div class="container" style="overflow: hidden;">
     <div style="width: 50%; float: left;margin-bottom: 20px; text-align: center;">
+        <a href="https://roboticslaburjc.github.io/publications/2024/autonomous_driving_in_traffic_with_end_to_end_vision_based_deep_learning">
+            <img style="max-width: 33%; height: auto; margin-bottom: 10px;" src="https://cdn-icons-png.flaticon.com/512/3731/3731553.png" alt="Autonomous Driving in Traffic">
+            <p>Autonomous Driving in Traffic with End-to-End Vision-based Deep Learning Neurocomputing. Sergio Paniego; Enrique Shinohara; JoséMaría Cañas.</p>
+        </a>
+    </div>
+</div>
+<div class="container" style="overflow: hidden;">
+    <div style="width: 50%; float: left;margin-bottom: 20px; text-align: center;">
         <a href="https://roboticslaburjc.github.io/publications/2024/behavior_metrics_an_open_source_assessment_tool_for_autonomous_driving_tasks">
             <img style="max-width: 33%; height: auto; margin-bottom: 10px;" src="https://cdn-icons-png.flaticon.com/512/3731/3731553.png" alt="Behavior Metrics">
             <p>Behavior Metrics: An Open-Source Assessment Tool for Autonomous Driving Tasks Software X. Sergio Paniego; Roberto Calvo-Palomino; JoséMaría Cañas.</p>
