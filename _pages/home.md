@@ -21,7 +21,7 @@ classes: wide
         </a>
     </div>
     <div style="text-align: center; margin: 0 20px;">
-        <a href="https://www.urjc.es/">
+        <a href="https://roboticslaburjc.github.io/">
             <img src="./assets/images/logo.png" style="width: 100px; height: auto;" alt="URJC"/>
         </a>
     </div>
@@ -44,7 +44,7 @@ classes: wide
 
 <div class="container" style="overflow: hidden;">
     <div style="width: 50%; float: left;margin-bottom: 20px; text-align: center;">
-        <a href="/" style="text-decoration: none; color: inherit;">
+        <a href="/assets/pdf/Sergio_Paniego_PhD_Thesis.pdf" style="text-decoration: none; color: inherit;">
             <img style="max-width: 33%; height: auto; margin-bottom: 10px;" src="https://cdn-icons-png.flaticon.com/512/5326/5326581.png" alt="Thesis (PDF)">
             <p style="margin: 0; padding: 10px; line-height: 1.5; font-size: 14px; text-align: center;">
                 <strong>Thesis (PDF)</strong><br>
@@ -52,7 +52,7 @@ classes: wide
         </a>
     </div>
     <div style="width: 50%; float: left;margin-bottom: 20px; text-align: center;">
-        <a href="/" style="text-decoration: none; color: inherit;">
+        <a href="/assets/pdf/thesis_presentation_v_4.pptx" style="text-decoration: none; color: inherit;">
             <img style="max-width: 33%; height: auto; margin-bottom: 10px;" src="https://cdn-icons-png.flaticon.com/512/1907/1907585.png" alt="Thesis (Slides)">
             <p style="margin: 0; padding: 10px; line-height: 1.5; font-size: 14px; text-align: center;">
                 <strong>Thesis (Slides)</strong><br>
