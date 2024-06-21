@@ -1,78 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://sergiopaniego.github.io/phd_thesis/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sergiopaniego.github.io/phd_thesis/" rel="alternate" type="text/html" /><updated>2024-04-02T18:22:39+02:00</updated><id>http://sergiopaniego.github.io/phd_thesis/feed.xml</id><title type="html">Sergio Paniego Blanco</title><subtitle>PhD thesis</subtitle><entry><title type="html">BT Studio: un IDE web para la programación de aplicaciones robóticas con Behavior Trees</title><link href="http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Oscar-Martinez/" rel="alternate" type="text/html" title="BT Studio: un IDE web para la programación de aplicaciones robóticas con Behavior Trees" /><published>2024-03-14T00:00:00+01:00</published><updated>2024-03-14T00:00:00+01:00</updated><id>http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Oscar-Martinez</id><content type="html" xml:base="http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Oscar-Martinez/">&lt;p&gt;Óscar has successfully presented his final bachelor’s project named &lt;strong&gt;“BT Studio: un IDE web para la programación de aplicaciones robóticas con Behavior Trees”&lt;/strong&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-21T15:46:01+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sergio Paniego Blanco</title><subtitle>PhD thesis</subtitle><entry><title type="html">BT Studio: un IDE web para la programación de aplicaciones robóticas con Behavior Trees</title><link href="http://localhost:4000/tfg/TFG-Oscar-Martinez/" rel="alternate" type="text/html" title="BT Studio: un IDE web para la programación de aplicaciones robóticas con Behavior Trees" /><published>2024-03-14T00:00:00+01:00</published><updated>2024-03-14T00:00:00+01:00</updated><id>http://localhost:4000/tfg/TFG-Oscar-Martinez</id><content type="html" xml:base="http://localhost:4000/tfg/TFG-Oscar-Martinez/"><![CDATA[<p>Óscar has successfully presented his final bachelor’s project named <strong>“BT Studio: un IDE web para la programación de aplicaciones robóticas con Behavior Trees”</strong>.</p>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Information and Resources&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Work&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2023-tfg-oscar-martinez/blob/main/tfg_final.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Slides&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2023-tfg-oscar-martinez/blob/main/slides.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Git Repository&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/JdeRobot/bt-studio&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Tutor&lt;/td&gt;
-      &lt;td&gt;JoseMaria Cañas Plaza&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Information and Resources</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Work</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2023-tfg-oscar-martinez/blob/main/tfg_final.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Slides</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2023-tfg-oscar-martinez/blob/main/slides.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Git Repository</td>
+      <td><a href="https://github.com/JdeRobot/bt-studio">Link</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tutor</td>
+      <td>JoseMaria Cañas Plaza</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;div style=&quot;text-align: justify&quot;&gt; 
+<div style="text-align: justify"> 
 
 In this project, the first release of BT Studio has been developed. BT Studio is an open-source tool crafted for the development of robotic applications. Its primary objective is to facilitate the quick deployment of behavior tree-based robotic applications within ROS 2. In BT Studio, a robotic app is defined as an graphical tree coupled with actions scripted in Python, which the tool then translates into a ROS 2 package. This process circumvents the unnecessary complexities often associated with ROS-specific configurations, offering developers a more streamlined approach. The generated robotics application may be run locally or even from the browser inside a docker container with one button click.
 
 
-&lt;/div&gt;
+</div>
 
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+<p><br />
+<br /></p>
 
-&lt;p&gt;&lt;strong&gt;Video:&lt;/strong&gt;
-&lt;br /&gt;&lt;/p&gt;
+<p><strong>Video:</strong>
+<br /></p>
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=a4c-nRevF_c&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/a4c-nRevF_c/0.jpg&quot; alt=&quot;IMAGE ALT TEXT HERE&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="TFG" /><category term="tfg" /><category term="BehaviorTrees" /><category term="robotics tools" /><category term="tutor:jmplaza" /><summary type="html">Óscar has successfully presented his final bachelor’s project named “BT Studio: un IDE web para la programación de aplicaciones robóticas con Behavior Trees”.</summary></entry><entry><title type="html">TFG: Autonomous driving for racing cars based on RL and using AWS Deep Racer and Gazebo</title><link href="http://sergiopaniego.github.io/phd_thesis/tfg/TFG-LuisMiguel-Lopez/" rel="alternate" type="text/html" title="TFG: Autonomous driving for racing cars based on RL and using AWS Deep Racer and Gazebo" /><published>2023-12-01T00:00:00+01:00</published><updated>2023-12-01T00:00:00+01:00</updated><id>http://sergiopaniego.github.io/phd_thesis/tfg/TFG-LuisMiguel-Lopez</id><content type="html" xml:base="http://sergiopaniego.github.io/phd_thesis/tfg/TFG-LuisMiguel-Lopez/">&lt;p&gt;Luis Miguel López  has successfully presented his final degree project named &lt;strong&gt;“Conducción Autónoma de coches de carreras basado en Reinforcement Learning con AWS DeepRacer y Gazebo”&lt;/strong&gt;.&lt;/p&gt;
+<p><a href="https://www.youtube.com/watch?v=a4c-nRevF_c"><img src="https://img.youtube.com/vi/a4c-nRevF_c/0.jpg" alt="IMAGE ALT TEXT HERE" /></a></p>]]></content><author><name></name></author><category term="TFG" /><category term="tfg" /><category term="BehaviorTrees" /><category term="robotics tools" /><category term="tutor:jmplaza" /><summary type="html"><![CDATA[Óscar has successfully presented his final bachelor’s project named “BT Studio: un IDE web para la programación de aplicaciones robóticas con Behavior Trees”.]]></summary></entry><entry><title type="html">TFG: Autonomous driving for racing cars based on RL and using AWS Deep Racer and Gazebo</title><link href="http://localhost:4000/tfg/TFG-LuisMiguel-Lopez/" rel="alternate" type="text/html" title="TFG: Autonomous driving for racing cars based on RL and using AWS Deep Racer and Gazebo" /><published>2023-12-01T00:00:00+01:00</published><updated>2023-12-01T00:00:00+01:00</updated><id>http://localhost:4000/tfg/TFG-LuisMiguel-Lopez</id><content type="html" xml:base="http://localhost:4000/tfg/TFG-LuisMiguel-Lopez/"><![CDATA[<p>Luis Miguel López  has successfully presented his final degree project named <strong>“Conducción Autónoma de coches de carreras basado en Reinforcement Learning con AWS DeepRacer y Gazebo”</strong>.</p>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Information and Resources&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Work&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://burjcdigital.urjc.es/bitstream/handle/10115/25616/2023-24-EIF-O-2327-2327037-lm.lopez.2019-MEMORIA.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Slides&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2022-tfg-luismiguel-lopez/tree/master/slides&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Git Repository&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2022-tfg-luismiguel-lopez&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Tutor&lt;/td&gt;
-      &lt;td&gt;Roberto Calvo Palomino&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Information and Resources</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Work</td>
+      <td><a href="https://burjcdigital.urjc.es/bitstream/handle/10115/25616/2023-24-EIF-O-2327-2327037-lm.lopez.2019-MEMORIA.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Slides</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2022-tfg-luismiguel-lopez/tree/master/slides">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Git Repository</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2022-tfg-luismiguel-lopez">Link</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tutor</td>
+      <td>Roberto Calvo Palomino</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;div style=&quot;text-align: justify&quot;&gt; 
+<div style="text-align: justify"> 
 
 
-&lt;br /&gt;
+<br />
 The automotive world does not escape the advances of robotics and AI. one of the great dreams in the history of humanity
 Since cars circulate in our world, autonomous cars are becoming increasingly popular every day
 closer to being a reality. In some countries, autonomous cars are already going circulate through large cities, even doing taxi services.
@@ -83,8 +83,8 @@ one of the most important elements, if not the most, of a racing car, which is t
 pilot is not a person but a computer capable of understanding and analyzing the
 car environment to drive himself as fast as possible around track.
 
-&lt;br /&gt;
-&lt;br /&gt;
+<br />
+<br />
 
 This TFG focuses on the development of autonomous driving behaviors
 based on reinforcement learning in racing circuits, in order to obtain
@@ -92,7 +92,7 @@ reactive and appropriate behaviors in different scenarios using
 a robot with the necessary characteristics to carry out these behaviors,
 the AWS Deepracer.
 
-&lt;br /&gt;
+<br />
 The AWS Deepracer league is a competition where participants try to build an autonomous behavior
  in a small racing car using artificial intelligence. In this
 competition, participants are provided with a small robot with
@@ -101,54 +101,54 @@ in which the participants must program the robot with one goal: be the fastast o
 
 
 
-&lt;br /&gt;
-&lt;br /&gt;
+<br />
+<br />
 
-&lt;img src=&quot;https://github.com/RoboticsLabURJC/2022-tfg-luismiguel-lopez/assets/78983070/942187d8-f25b-47bc-8f50-cc8c6a709cef&quot; style=&quot;max-width: 800px;  display: block; margin-left: auto; margin-right: auto; width: 90%;&quot; /&gt;
+<img src="https://github.com/RoboticsLabURJC/2022-tfg-luismiguel-lopez/assets/78983070/942187d8-f25b-47bc-8f50-cc8c6a709cef" style="max-width: 800px;  display: block; margin-left: auto; margin-right: auto; width: 90%;" />
 
 
 
-&lt;br /&gt;
-&lt;br /&gt;
+<br />
+<br />
 
 
 Check the video below to see more details about the system:
 
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+</div>
+<p><br />
+<br /></p>
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/g7wZ5BbI_jo?si=EDjrmFvWqP7NNVtG&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="TFG" /><category term="tfg" /><category term="RL" /><category term="autonomous-driving" /><category term="racing" /><category term="tutor:rocapal" /><summary type="html">Luis Miguel López has successfully presented his final degree project named “Conducción Autónoma de coches de carreras basado en Reinforcement Learning con AWS DeepRacer y Gazebo”.</summary></entry><entry><title type="html">TFG: Deep learning based framework to detect and analyze student behaviours in a classroom</title><link href="http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Carlota-Vera/" rel="alternate" type="text/html" title="TFG: Deep learning based framework to detect and analyze student behaviours in a classroom" /><published>2023-11-17T00:00:00+01:00</published><updated>2023-11-17T00:00:00+01:00</updated><id>http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Carlota-Vera</id><content type="html" xml:base="http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Carlota-Vera/">&lt;p&gt;Carlota Vera has successfully presented his final degree project named &lt;strong&gt;“Sistema de detección y análisis de emociones y comportamientos de estudiantes en un aula docente basado en Deep learning”&lt;/strong&gt;.&lt;/p&gt;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g7wZ5BbI_jo?si=EDjrmFvWqP7NNVtG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="TFG" /><category term="tfg" /><category term="RL" /><category term="autonomous-driving" /><category term="racing" /><category term="tutor:rocapal" /><summary type="html"><![CDATA[Luis Miguel López has successfully presented his final degree project named “Conducción Autónoma de coches de carreras basado en Reinforcement Learning con AWS DeepRacer y Gazebo”.]]></summary></entry><entry><title type="html">TFG: Deep learning based framework to detect and analyze student behaviours in a classroom</title><link href="http://localhost:4000/tfg/TFG-Carlota-Vera/" rel="alternate" type="text/html" title="TFG: Deep learning based framework to detect and analyze student behaviours in a classroom" /><published>2023-11-17T00:00:00+01:00</published><updated>2023-11-17T00:00:00+01:00</updated><id>http://localhost:4000/tfg/TFG-Carlota-Vera</id><content type="html" xml:base="http://localhost:4000/tfg/TFG-Carlota-Vera/"><![CDATA[<p>Carlota Vera has successfully presented his final degree project named <strong>“Sistema de detección y análisis de emociones y comportamientos de estudiantes en un aula docente basado en Deep learning”</strong>.</p>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Information and Resources&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Work&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://burjcdigital.urjc.es/bitstream/handle/10115/25235/2023-24-EIF-O-2327-2327037-c.verap.2019-MEMORIA_v2.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Tutor&lt;/td&gt;
-      &lt;td&gt;Roberto Calvo Palomino&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Information and Resources</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Work</td>
+      <td><a href="https://burjcdigital.urjc.es/bitstream/handle/10115/25235/2023-24-EIF-O-2327-2327037-c.verap.2019-MEMORIA_v2.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tutor</td>
+      <td>Roberto Calvo Palomino</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;div style=&quot;text-align: justify&quot;&gt; 
+<div style="text-align: justify"> 
 
 
 Artificial intelligence is already helping in the education field to understand the needs of each student and improve the learning methodologies for a better education.
-Neural networks such as PoseNet or FaceMesh can help to understand the dynamic of the class without expose the student's privacy. In collaboration with &lt;b&gt;&lt;a href=&quot;https://tknika.eus/&quot;&gt;Tknika&lt;/a&gt;&lt;/b&gt; a deep learning vision-based framework has been developed to detect and analyze emotions, behaviours, movements and talk-action of the students in a regular class.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/M3dX9w7FFEE?si=SwFS-Lp45vTFIM-6&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-&lt;br /&gt;
+Neural networks such as PoseNet or FaceMesh can help to understand the dynamic of the class without expose the student's privacy. In collaboration with <b><a href="https://tknika.eus/">Tknika</a></b> a deep learning vision-based framework has been developed to detect and analyze emotions, behaviours, movements and talk-action of the students in a regular class.
+<br />
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M3dX9w7FFEE?si=SwFS-Lp45vTFIM-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<br />
+<br />
 This work focuses on developing a system for detecting and analyzing emotions
 and behaviors based on AI on a teaching environment. Main goal of the project is to
 provide useful information to teachers about student performance. This system
@@ -157,43 +157,43 @@ detection is based on algorithms that have been designed to perform a visual ana
 Privacy has been treated as a central pillar in this project, that's why no images are saved, neither audio of the environment is analyzed.
 
 
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="TFG" /><category term="tfg" /><category term="DL" /><category term="classroom" /><category term="tutor:rocapal" /><summary type="html">Carlota Vera has successfully presented his final degree project named “Sistema de detección y análisis de emociones y comportamientos de estudiantes en un aula docente basado en Deep learning”.</summary></entry><entry><title type="html">TFG: Autonomous drone navigation based on Reinforcement Learning for localizing a RF station</title><link href="http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Cristian-Sanchez/" rel="alternate" type="text/html" title="TFG: Autonomous drone navigation based on Reinforcement Learning for localizing a RF station" /><published>2023-11-09T00:00:00+01:00</published><updated>2023-11-09T00:00:00+01:00</updated><id>http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Cristian-Sanchez</id><content type="html" xml:base="http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Cristian-Sanchez/">&lt;p&gt;Cristian Sanchez has successfully presented his final degree project named &lt;strong&gt;“Navegación autónoma de un dron para localizar un transmisor de radio frecuencia basado en aprendizaje por refuerzo”&lt;/strong&gt;.&lt;/p&gt;
+</div>
+<p><br />
+<br /></p>]]></content><author><name></name></author><category term="TFG" /><category term="tfg" /><category term="DL" /><category term="classroom" /><category term="tutor:rocapal" /><summary type="html"><![CDATA[Carlota Vera has successfully presented his final degree project named “Sistema de detección y análisis de emociones y comportamientos de estudiantes en un aula docente basado en Deep learning”.]]></summary></entry><entry><title type="html">TFG: Autonomous drone navigation based on Reinforcement Learning for localizing a RF station</title><link href="http://localhost:4000/tfg/TFG-Cristian-Sanchez/" rel="alternate" type="text/html" title="TFG: Autonomous drone navigation based on Reinforcement Learning for localizing a RF station" /><published>2023-11-09T00:00:00+01:00</published><updated>2023-11-09T00:00:00+01:00</updated><id>http://localhost:4000/tfg/TFG-Cristian-Sanchez</id><content type="html" xml:base="http://localhost:4000/tfg/TFG-Cristian-Sanchez/"><![CDATA[<p>Cristian Sanchez has successfully presented his final degree project named <strong>“Navegación autónoma de un dron para localizar un transmisor de radio frecuencia basado en aprendizaje por refuerzo”</strong>.</p>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Information and Resources&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Work&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://burjcdigital.urjc.es/bitstream/handle/10115/25289/2023-24-EIF-O-2327-2327037-c.sanchezro.2018-MEMORIA.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Slides&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2022-tfg-cristian-sanchez/tree/main/slides&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Git Repository&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2022-tfg-cristian-sanchez&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Tutor&lt;/td&gt;
-      &lt;td&gt;Roberto Calvo Palomino&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Information and Resources</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Work</td>
+      <td><a href="https://burjcdigital.urjc.es/bitstream/handle/10115/25289/2023-24-EIF-O-2327-2327037-c.sanchezro.2018-MEMORIA.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Slides</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2022-tfg-cristian-sanchez/tree/main/slides">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Git Repository</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2022-tfg-cristian-sanchez">Link</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tutor</td>
+      <td>Roberto Calvo Palomino</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;div style=&quot;text-align: justify&quot;&gt; 
+<div style="text-align: justify"> 
 
 
 Autonomous done navigation is getting attention in different fields during last years. Applications focused on people-rescue, surveillance, infrastructure inspection are being demanded nowadays, but drone must be operated autonomously by itself.
 
-&lt;br /&gt;
+<br />
 The focus of the study is on Unmanned Air Vehicles (UAV), whose use covers
 from rescues in inaccessible areas, to inspections in the industry, or
 inventoried, among many other examples.In parallel, we have the study of the Radio Frequency (RF) spectrum, which
@@ -203,61 +203,61 @@ Understanding and working on signal propagation can introduce us to new
 useful applications for the world.
 
 
-&lt;br /&gt;
-&lt;br /&gt;
+<br />
+<br />
 
 To evaluate properly this project, a FRISS model has been implemented in python and create a ROS node to export this feature to the ROS ecosystem. Check the PDF above for more information.
 
-&lt;img src=&quot;https://roboticslaburjc.github.io/2022-tfg-cristian-sanchez/images/friss_app.gif&quot; style=&quot;max-width: 800px;  display: block; margin-left: auto; margin-right: auto; width: 90%;&quot; /&gt;
+<img src="https://roboticslaburjc.github.io/2022-tfg-cristian-sanchez/images/friss_app.gif" style="max-width: 800px;  display: block; margin-left: auto; margin-right: auto; width: 90%;" />
 
 
-&lt;br /&gt;
-&lt;br /&gt;
+<br />
+<br />
 
 The objective of this work is to developed a solution based on reinfocemente learning (Q-learning) that is able to learn how to reach a RF transmmiter at outdoor/indoor environment. Static and dynamic environments have been evaluated with obstácules in a realistic way.
 
 
 
-&lt;br /&gt;
-&lt;br /&gt;
+<br />
+<br />
 
 
 Check the video below to see more details about the system:
 
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+</div>
+<p><br />
+<br /></p>
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/oulD6hGlg3c?si=-SnPDANqRcVp-UHk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="TFG" /><category term="tfg" /><category term="RL" /><category term="drones" /><category term="tutor:rocapal" /><summary type="html">Cristian Sanchez has successfully presented his final degree project named “Navegación autónoma de un dron para localizar un transmisor de radio frecuencia basado en aprendizaje por refuerzo”.</summary></entry><entry><title type="html">TFM: Autonomous driving in traffic using end-to-end deep learning</title><link href="http://sergiopaniego.github.io/phd_thesis/tfm/TFG-Enrique-Shinohara/" rel="alternate" type="text/html" title="TFM: Autonomous driving in traffic using end-to-end deep learning" /><published>2023-09-21T00:00:00+02:00</published><updated>2023-09-21T00:00:00+02:00</updated><id>http://sergiopaniego.github.io/phd_thesis/tfm/TFG-Enrique-Shinohara</id><content type="html" xml:base="http://sergiopaniego.github.io/phd_thesis/tfm/TFG-Enrique-Shinohara/">&lt;p&gt;Enrique Shinohara  has successfully presented her final master’s project named &lt;strong&gt;“Conducción autónoma en tráfico usando aprendizaje profundo extremo a extremo”&lt;/strong&gt;.&lt;/p&gt;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oulD6hGlg3c?si=-SnPDANqRcVp-UHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="TFG" /><category term="tfg" /><category term="RL" /><category term="drones" /><category term="tutor:rocapal" /><summary type="html"><![CDATA[Cristian Sanchez has successfully presented his final degree project named “Navegación autónoma de un dron para localizar un transmisor de radio frecuencia basado en aprendizaje por refuerzo”.]]></summary></entry><entry><title type="html">TFM: Autonomous driving in traffic using end-to-end deep learning</title><link href="http://localhost:4000/tfm/TFG-Enrique-Shinohara/" rel="alternate" type="text/html" title="TFM: Autonomous driving in traffic using end-to-end deep learning" /><published>2023-09-21T00:00:00+02:00</published><updated>2023-09-21T00:00:00+02:00</updated><id>http://localhost:4000/tfm/TFG-Enrique-Shinohara</id><content type="html" xml:base="http://localhost:4000/tfm/TFG-Enrique-Shinohara/"><![CDATA[<p>Enrique Shinohara  has successfully presented her final master’s project named <strong>“Conducción autónoma en tráfico usando aprendizaje profundo extremo a extremo”</strong>.</p>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Information and Resources&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Work&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara/blob/main/final/TFM_final.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Slides&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara/blob/main/final/TFM_presentacion_FINAL_v5.0.pptx&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Git Repository&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Tutor&lt;/td&gt;
-      &lt;td&gt;JoseMaria Cañas Plaza and Sergio Paniego&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Information and Resources</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Work</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara/blob/main/final/TFM_final.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Slides</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara/blob/main/final/TFM_presentacion_FINAL_v5.0.pptx">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Git Repository</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara">Link</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tutor</td>
+      <td>JoseMaria Cañas Plaza and Sergio Paniego</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;div style=&quot;text-align: justify&quot;&gt; 
+<div style="text-align: justify"> 
 
 
 In this project an end-to-end vision-based deep learning approach for an autonomous car
@@ -271,75 +271,75 @@ successfully drives the car in traffic conditions without losing performance in 
 conditions. It also keeps safety distance with the front cars and even properly generalizes
 to several types of front vehicles.
 
-&lt;br /&gt;
-&lt;br /&gt;
+<br />
+<br />
 
 A plugin for measuring the distance to the front vehicle has been created and added to
 Behavior Metrics, an open-source autonomous driving assessment tool.
 
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+</div>
+<p><br />
+<br /></p>
 
-&lt;p&gt;&lt;strong&gt;Video:&lt;/strong&gt;
-&lt;br /&gt;&lt;/p&gt;
+<p><strong>Video:</strong>
+<br /></p>
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mVSfxQeWwrQ&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/mVSfxQeWwrQ/0.jpg&quot; alt=&quot;IMAGE ALT TEXT HERE&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="TFM" /><category term="tfm" /><category term="IA" /><category term="autonomous driving" /><category term="tutor:sergiopaniego" /><category term="tutor:jmplaza" /><summary type="html">Enrique Shinohara has successfully presented her final master’s project named “Conducción autónoma en tráfico usando aprendizaje profundo extremo a extremo”.</summary></entry><entry><title type="html">TFG: Assistance exoskeletons in rehabilitation and pose IA models</title><link href="http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Veronica-Tornero/" rel="alternate" type="text/html" title="TFG: Assistance exoskeletons in rehabilitation and pose IA models" /><published>2023-07-13T00:00:00+02:00</published><updated>2023-07-13T00:00:00+02:00</updated><id>http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Veronica-Tornero</id><content type="html" xml:base="http://sergiopaniego.github.io/phd_thesis/tfg/TFG-Veronica-Tornero/">&lt;p&gt;Verónica Tornero has successfully presented her final degree project named &lt;strong&gt;“Sistema de control para la rehabilitación motora con
-un exoesqueleto y evaluación de redes posnet como ayuda a terapias”&lt;/strong&gt;.&lt;/p&gt;
+<p><a href="https://www.youtube.com/watch?v=mVSfxQeWwrQ"><img src="https://img.youtube.com/vi/mVSfxQeWwrQ/0.jpg" alt="IMAGE ALT TEXT HERE" /></a></p>]]></content><author><name></name></author><category term="TFM" /><category term="tfm" /><category term="IA" /><category term="autonomous driving" /><category term="tutor:sergiopaniego" /><category term="tutor:jmplaza" /><summary type="html"><![CDATA[Enrique Shinohara has successfully presented her final master’s project named “Conducción autónoma en tráfico usando aprendizaje profundo extremo a extremo”.]]></summary></entry><entry><title type="html">TFG: Assistance exoskeletons in rehabilitation and pose IA models</title><link href="http://localhost:4000/tfg/TFG-Veronica-Tornero/" rel="alternate" type="text/html" title="TFG: Assistance exoskeletons in rehabilitation and pose IA models" /><published>2023-07-13T00:00:00+02:00</published><updated>2023-07-13T00:00:00+02:00</updated><id>http://localhost:4000/tfg/TFG-Veronica-Tornero</id><content type="html" xml:base="http://localhost:4000/tfg/TFG-Veronica-Tornero/"><![CDATA[<p>Verónica Tornero has successfully presented her final degree project named <strong>“Sistema de control para la rehabilitación motora con
+un exoesqueleto y evaluación de redes posnet como ayuda a terapias”</strong>.</p>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Information and Resources&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Work&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2022-tfg-veronica-tornero/blob/main/final/2022-23-EIF-A-2327-2327037-v.tornero.2018-MEMORIA.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Slides&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;&quot;&gt;PDF&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Git Repository&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RoboticsLabURJC/2022-tfg-veronica-tornero/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Tutor&lt;/td&gt;
-      &lt;td&gt;Roberto Calvo Palomino&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Information and Resources</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Work</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2022-tfg-veronica-tornero/blob/main/final/2022-23-EIF-A-2327-2327037-v.tornero.2018-MEMORIA.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Slides</td>
+      <td><a href="">PDF</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Git Repository</td>
+      <td><a href="https://github.com/RoboticsLabURJC/2022-tfg-veronica-tornero/">Link</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tutor</td>
+      <td>Roberto Calvo Palomino</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;div style=&quot;text-align: justify&quot;&gt; 
+<div style="text-align: justify"> 
 
 
 Robotics and Artificial Intelligence (AI) are areas in continuous expansion that covers many different fields. One of the sectors that has benefited the most of the development of this industry is medicine. People who present any injury, disability, who need help to walk or who have suffered an accident cerebrovascular disease, require assistance to accelerate their recovery and improve their quality of life. Exoskeletons play a fundamental role by allowing them to perform rehabilitation exercises quickly and efficiently, relieving the physical load of the therapists involved. Due to this, designing and developing new programs of rehabilitation that are integrated into these devices is absolutely necessary, with the purpose of addressing the different problems that patients face in your recovery process.
 
-&lt;br /&gt;
-&lt;br /&gt;
+<br />
+<br />
 
-&lt;img src=&quot;https://raw.githubusercontent.com/RoboticsLabURJC/2022-tfg-veronica-tornero/main/final/foto_video_analizador.PNG&quot; style=&quot;max-width: 200px;  display: block; margin-left: auto; margin-right: auto; width: 50%;&quot; /&gt;
+<img src="https://raw.githubusercontent.com/RoboticsLabURJC/2022-tfg-veronica-tornero/main/final/foto_video_analizador.PNG" style="max-width: 200px;  display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
-&lt;br /&gt;
-&lt;br /&gt;
+<br />
+<br />
 
 
 In collaboration with the company Marsi Bionics, a new exercise has been designed rehabilitation for an exoskeleton. After a study of pre-existing information on the device, the necessary content was extracted and a new control system based on the movement of the squats. Thanks to this system,
 patients will be able to perform exercises of this type, which is important considering note that it is not a common movement in current devices. Besides, am evaluation has been made with pose neural network models, in order to provide additional assistance in situations where the exoskeleton is not available.
 
-&lt;br /&gt;
-&lt;br /&gt;
+<br />
+<br />
 
 
 Finally, in this project it has been possible to develop a solid and stable solution of the proposed exercise, as well as a comparison of two neural network models verifying that, indeed, although the results are more accurate using the exoskeleton, could be used for support and additional help.
 
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+</div>
+<p><br />
+<br /></p>
 
-&lt;video src=&quot;https://raw.githubusercontent.com/RoboticsLabURJC/2022-tfg-veronica-tornero/main/final/video.mp4&quot; controls=&quot;controls&quot; style=&quot;max-width: 600px;&quot;&gt;
-&lt;/video&gt;</content><author><name></name></author><category term="TFG" /><category term="tfg" /><category term="IA" /><category term="exoskeleton" /><category term="tutor:rocapal" /><summary type="html">Verónica Tornero has successfully presented her final degree project named “Sistema de control para la rehabilitación motora con un exoesqueleto y evaluación de redes posnet como ayuda a terapias”.</summary></entry></feed>
+<video src="https://raw.githubusercontent.com/RoboticsLabURJC/2022-tfg-veronica-tornero/main/final/video.mp4" controls="controls" style="max-width: 600px;">
+</video>]]></content><author><name></name></author><category term="TFG" /><category term="tfg" /><category term="IA" /><category term="exoskeleton" /><category term="tutor:rocapal" /><summary type="html"><![CDATA[Verónica Tornero has successfully presented her final degree project named “Sistema de control para la rehabilitación motora con un exoesqueleto y evaluación de redes posnet como ayuda a terapias”.]]></summary></entry></feed>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51f784e6-6d9e-462f-8f19-c0b3f918086a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/lunr/lunr-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/js/lunr/lunr-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tfg/TFG-Carlota-Vera/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tfg/TFG-Carlota-Vera/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tfg/TFG-Cristian-Sanchez/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tfg/TFG-Cristian-Sanchez/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tfg/TFG-LuisMiguel-Lopez/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tfg/TFG-LuisMiguel-Lopez/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tfg/TFG-Oscar-Martinez/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tfg/TFG-Oscar-Martinez/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tfg/TFG-Veronica-Tornero/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tfg/TFG-Veronica-Tornero/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tfm/TFG-Enrique-Shinohara/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tfm/TFG-Enrique-Shinohara/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eYEyLhYsY64DVnIMmTXVUSjcqH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sergiopaniego/Documents/Projects/phd_thesis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51f784e6-6d9e-462f-8f19-c0b3f918086a" name="Changes" comment="" />
+      <created>1712073365160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712073365160</updated>
+      <workItem from="1712073366194" duration="208000" />
+      <workItem from="1712074067432" duration="1727000" />
+      <workItem from="1712129132312" duration="569000" />
+      <workItem from="1712129707967" duration="7000" />
+      <workItem from="1712129724712" duration="3343000" />
+      <workItem from="1712215647577" duration="14000" />
+      <workItem from="1718024449574" duration="762000" />
+      <workItem from="1718090863894" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
