@@ -127,7 +127,7 @@ classes: wide
     school       = {Universidad Rey Juan Carlos},
     year         = {2024},
     address      = {Madrid, Spain},
-    url          = {}
+    url          = {https://sergiopaniego.github.io/phd_thesis/}
 }
 ``` 
 
