@@ -65,6 +65,16 @@ classes: wide
 
 <div class="container" style="overflow: hidden; display: flex; flex-wrap: nowrap;">
     <div style="width: 50%; margin-bottom: 20px; text-align: center;">
+        <a href="https://roboticslaburjc.github.io/publications/2024/enhancing_end_to_end_control_in_autonomous_driving_through_kinematic_infused_and_visual_memory_imitation_learning" style="text-decoration: none; color: inherit;">
+            <img style="max-width: 33%; height: auto; margin-bottom: 10px;" src="https://cdn-icons-png.flaticon.com/512/684/684930.png" alt="Autonomous Driving in Traffic">
+            <p style="margin: 0; padding: 10px; line-height: 1.5; font-size: 14px; text-align: left;">
+                <strong>Enhancing end-to-end control in autonomous driving through kinematic-infused and visual memory imitation learning</strong><br>
+                Neurocomputing, 2024<br>
+                <em>Sergio Paniego; Roberto Calvo-Palomino; JoséMaría Cañas</em>
+            </p>
+        </a>
+    </div>
+    <div style="width: 50%; margin-bottom: 20px; text-align: center;">
         <a href="https://roboticslaburjc.github.io/publications/2024/autonomous_driving_in_traffic_with_end_to_end_vision_based_deep_learning" style="text-decoration: none; color: inherit;">
             <img style="max-width: 33%; height: auto; margin-bottom: 10px;" src="https://cdn-icons-png.flaticon.com/512/684/684930.png" alt="Autonomous Driving in Traffic">
             <p style="margin: 0; padding: 10px; line-height: 1.5; font-size: 14px; text-align: left;">
